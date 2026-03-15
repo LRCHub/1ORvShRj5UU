@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "syzygy",
+  "base_artist": "utatabi",
+  "createdAt": "2026-03-15T15:24:30.286318Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Syzygy",
+      "artist": "Laurel Halo",
+      "has_synced": false,
+      "path": "select/01_Syzygy_Laurel_Halo.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "WANNA SAVE U! (FROM THE FAILED SYZYGY)",
+      "artist": "Ghouljaboy",
+      "has_synced": true,
+      "path": "select/02_WANNA_SAVE_U!_(FROM_THE_FAILED_SYZYGY)_Ghouljaboy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "WANNA SAVE U! (FROM THE FAILED SYZYGY)",
+      "artist": "Ghouljaboy",
+      "has_synced": true,
+      "path": "select/03_WANNA_SAVE_U!_(FROM_THE_FAILED_SYZYGY)_Ghouljaboy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Syzygy",
+      "artist": "Murrumur",
+      "has_synced": false,
+      "path": "select/04_Syzygy_Murrumur.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Syzygy",
+      "artist": "Gene Loves Jezebel",
+      "has_synced": false,
+      "path": "select/05_Syzygy_Gene_Loves_Jezebel.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Syzygy",
+      "artist": "Bear McCreary feat. Brendan McCreary",
+      "has_synced": false,
+      "path": "select/06_Syzygy_Bear_McCreary_feat._Brendan_McCreary.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "In Syzygy",
+      "artist": "Maraton",
+      "has_synced": true,
+      "path": "select/07_In_Syzygy_Maraton.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Syzygy",
+      "artist": "Tsar B",
+      "has_synced": true,
+      "path": "select/08_Syzygy_Tsar_B.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Syzygy",
+      "artist": "Bear McCreary",
+      "has_synced": true,
+      "path": "select/09_Syzygy_Bear_McCreary.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Syzygy",
+      "artist": "Dead to a Dying World",
+      "has_synced": true,
+      "path": "select/10_Syzygy_Dead_to_a_Dying_World.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "syzygy",
+      "artist": "utatabi",
+      "has_synced": false,
+      "path": "select/pl_01_syzygy_utatabi.txt"
+    }
+  ]
+}
